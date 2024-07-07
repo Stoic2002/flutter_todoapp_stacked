@@ -1,6 +1,4 @@
-Certainly! Here's the README.md in English:
-
-```markdown
+```
 # Flutter Todo App with Stacked and Hive
 
 A simple Todo application built using Flutter, with Stacked for state management and Hive for local data storage.
