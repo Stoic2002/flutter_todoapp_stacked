@@ -1,4 +1,3 @@
-```
 # Flutter Todo App with Stacked and Hive
 
 A simple Todo application built using Flutter, with Stacked for state management and Hive for local data storage.
@@ -12,7 +11,7 @@ A simple Todo application built using Flutter, with Stacked for state management
 - Delete todos
 - Local data persistence using Hive
 
-## dependencies
+## Dependencies
 
 - [Flutter](https://flutter.dev/)
 - [Stacked](https://pub.dev/packages/stacked)
@@ -23,19 +22,19 @@ A simple Todo application built using Flutter, with Stacked for state management
 
 1. Ensure you have [Flutter](https://flutter.dev/docs/get-started/install) installed.
 2. Clone this repository:
-   ```
+```
    git clone https://github.com/Stoic2002/flutter_todoapp_stacked.git
-   ```
+```
 3. Navigate to the project directory:
-   ```
-   cd flutter-todo-app
-   ```
+```
+   cd flutter_todoapp_stacked
+```   
 4. Run `flutter pub get` to install dependencies.
 5. Run `flutter pub run build_runner build` to generate necessary code.
 6. Run the app:
-   ```
+```
    flutter run
-   ```
+```
 
 ## Project Structure
 
